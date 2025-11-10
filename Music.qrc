@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Winners_Music/Hallowed_be_thy_Name.mp3</file>
+        <file>Winners_Music/Oh_Fortuna_Carmina.mp3</file>
+        <file>Winners_Music/Discovery.mp4</file>
+    </qresource>
+</RCC>

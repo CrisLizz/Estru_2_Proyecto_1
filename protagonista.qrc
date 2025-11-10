@@ -1,0 +1,21 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Protagonista/Walk.png</file>
+        <file>Protagonista/Walk_izq.png</file>
+        <file>Protagonista/Idle.png</file>
+        <file>Protagonista/hearts.png</file>
+        <file>Protagonista/empirista.png</file>
+        <file>Protagonista/empirista_izq.png</file>
+        <file>Protagonista/racionalista.png</file>
+        <file>Protagonista/racionalista_izq.png</file>
+        <file>Protagonista/empirista_idle.png</file>
+        <file>Protagonista/racionalista_idle.png</file>
+        <file>Protagonista/Attack_empirista.png</file>
+        <file>Protagonista/Attack_racionalista.png</file>
+        <file>Protagonista/Attack_empirista_izq.png</file>
+        <file>Protagonista/Attack_racionalista_izq.png</file>
+        <file>Protagonista/hearts_above.png</file>
+        <file>Protagonista/emp_protag_death.png</file>
+        <file>Protagonista/rac_protag_death.png</file>
+    </qresource>
+</RCC>

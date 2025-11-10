@@ -1,0 +1,43 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Deco/board.png</file>
+        <file>Deco/art_t.png</file>
+        <file>Deco/ciencia_t.png</file>
+        <file>Deco/historia_t.png</file>
+        <file>Deco/politica_t.png</file>
+        <file>Deco/right_door_close.png</file>
+        <file>Deco/right_door_open.png</file>
+        <file>Deco/left_door_close.png</file>
+        <file>Deco/left_door_open.png</file>
+        <file>Deco/bubble_text.png</file>
+        <file>Deco/speech_text.png</file>
+        <file>Deco/puerta_correcta.jpg</file>
+        <file>Deco/puerta_incorrecta.jpg</file>
+        <file>Deco/ciencia_aprobado.jpg</file>
+        <file>Deco/ciencia_reprobado.jpg</file>
+        <file>Deco/historia_aprobada.jpg</file>
+        <file>Deco/historia_reprobada.jpg</file>
+        <file>Deco/Libro_Correcto.jpg</file>
+        <file>Deco/Libro_Incorrecto.jpg</file>
+        <file>Deco/politica_aprobada.jpg</file>
+        <file>Deco/politica_reprobada.jpg</file>
+        <file>Deco/respuesta_correcta.jpg</file>
+        <file>Deco/respuesta_incorrecta.jpg</file>
+        <file>Deco/no_libro.jpg</file>
+        <file>Deco/si_libro.jpg</file>
+        <file>Deco/agarro_libro.jpg</file>
+        <file>Deco/arte_aprobado.jpg</file>
+        <file>Deco/arte_correcto.jpg</file>
+        <file>Deco/arte_incorrecto.jpg</file>
+        <file>Deco/arte_reprobado.jpg</file>
+        <file>Deco/scuplture_1.png</file>
+        <file>Deco/scuplture_2.png</file>
+        <file>Deco/scuplture_3.png</file>
+        <file>Deco/scuplture_4.png</file>
+        <file>Deco/scuplture_5.png</file>
+        <file>Deco/open_door.png</file>
+        <file>Deco/trophy.png</file>
+        <file>Deco/emp_banner.png</file>
+        <file>Deco/rac_banner.png</file>
+    </qresource>
+</RCC>

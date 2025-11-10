@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Npcs/emp_attack_npc.png</file>
+        <file>Npcs/emp_idle_npc.png</file>
+        <file>Npcs/emp_walk_npc.png</file>
+        <file>Npcs/rac_attack_npc.png</file>
+        <file>Npcs/rac_idle_npc.png</file>
+        <file>Npcs/rac_walk_npc.png</file>
+        <file>Npcs/hearts_npc.png</file>
+        <file>Npcs/emp_walk_npc_der.png</file>
+        <file>Npcs/rac_walk_npc_der.png</file>
+        <file>Npcs/rac_npc_death.png</file>
+        <file>Npcs/emp_death_npc.png</file>
+        <file>Npcs/Descartes.png</file>
+        <file>Npcs/Kant.png</file>
+    </qresource>
+</RCC>

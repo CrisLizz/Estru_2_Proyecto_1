@@ -1,0 +1,21 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Fondos/school_Menu.gif</file>
+        <file>Fondos/school_Front.jpg</file>
+        <file>Fondos/study.jpg</file>
+        <file>Fondos/study2.jpg</file>
+        <file>Fondos/doors_game.jpg</file>
+        <file>Fondos/looby_v5.jpg</file>
+        <file>Fondos/classroom_game.jpg</file>
+        <file>Fondos/politics.jpg</file>
+        <file>Fondos/history_v2.jpg</file>
+        <file>Fondos/art_classroom.jpg</file>
+        <file>Fondos/lobby_2.jpg</file>
+        <file>Fondos/Gym.jpg</file>
+        <file>Fondos/batalla.jpg</file>
+        <file>Fondos/kant_descartes.jpg</file>
+        <file>Fondos/Mapa.png</file>
+        <file>Fondos/kant_classroom.jpg</file>
+        <file>Fondos/labo_descartes.jpg</file>
+    </qresource>
+</RCC>
